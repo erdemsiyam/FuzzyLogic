@@ -14,3 +14,5 @@ This program works for each instance containing 2 input 1 output graphics.
 # Output Scheme :
 ![ss4](https://user-images.githubusercontent.com/28197410/52068025-e0e0f880-258c-11e9-9051-37287dfd5ef7.png)
 
+# Result :
+![ss5](https://user-images.githubusercontent.com/28197410/52068402-aa57ad80-258d-11e9-83fd-888f47fe779f.png)
